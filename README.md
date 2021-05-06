@@ -1,0 +1,2 @@
+# firstcode
+練習
